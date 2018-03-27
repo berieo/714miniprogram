@@ -1,0 +1,29 @@
+{
+  "pages" :[
+    "image/image",
+    "video/video"
+  ],
+  "tabBar":{
+    "list":[{
+      "pagePath":"image/image",
+      "text":"______",
+      "iconPath":"resource/logos/摄影dis.jpg",
+      "selectedIconPath":"resource/logos/摄影.jpg"
+    },{
+      "pagePath":"video/video",
+      "text":"______",
+      "iconPath":"resource/logos/视频dis.jpg",
+      "selectedIconPath":"resource/logos/视频.jpg"
+    }],
+    "color": "#000000",
+    "borderStyle":"black",
+    "backgroundColor":"#000000",
+    "selectedColor": "#ffffff"
+  },
+  "window":{
+    "navigationBarBackgroundColor":"#000000",
+    "navigationBarTextStyle":"white",
+    "navigationBarTitleText":"714工作室作品",
+    "backgroundColor":"#000000"
+  }
+}
